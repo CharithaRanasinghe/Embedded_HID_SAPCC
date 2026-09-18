@@ -20,3 +20,4 @@ A programmable hardware macro pad built around the ESP32-S3, featuring a 4×4 sw
 * **Designed to streamline repetitive workflows** and improve productivity for professionals
 ---
 <img width="1600" height="1200" alt="WhatsApp Image 2026-09-19 at 00 07 26" src="https://github.com/user-attachments/assets/05894c16-a423-4d99-b571-9cd46fb1aaab" />
+<img width="462" height="382" alt="Embedded Flowchart" src="https://github.com/user-attachments/assets/5c6622da-9d6d-447f-af51-6ffdea61d097" />
