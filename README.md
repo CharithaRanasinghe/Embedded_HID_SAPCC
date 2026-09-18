@@ -1,2 +1,2 @@
 # Embedded_HID_SAPCC
-Code Repository for SAPCC project
+A programmable hardware macro pad built around the ESP32-S3, featuring a 4×4 switch matrix, rotary encoder, potentiometers, and a Nextion touchscreen interface. The device provides customizable USB HID controls for desktop applications such as Microsoft Word and VS Code, while a dedicated web application allows users to configure and manage button functions and device settings. The system is designed to streamline repetitive tasks and improve the workflow and productivity of professionals through customizable, application-specific controls.
